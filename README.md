@@ -18,5 +18,5 @@ Instruction to run the Project using Command Line.
 API Documentation-----
 
 There are two get request APIs
-localhost:8080/fizzbuzzapi?int1=3&int2=5&limit=15&str1=fizz&str2=buzz  : to run the fizzbuzz api call to get fizzbuzz response. All Parameters are required.
-localhost:8080/statistics : to see the url with parameter with maximum number of hits for the most frequent request.
+1. localhost:8080/fizzbuzzapi?int1=3&int2=5&limit=15&str1=fizz&str2=buzz  : to run the fizzbuzz api call to get fizzbuzz response. All Parameters are required.
+2. localhost:8080/statistics : to see the url with parameter with maximum number of hits for the most frequent request.
