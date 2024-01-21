@@ -1,0 +1,51 @@
+# .gitignore for Spring Boot
+
+# Compiled bytecode
+/target/
+
+# Logs
+/logs/
+
+# IDE-specific files
+/.idea/
+/.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Dependency directories
+/bin/
+/lib/
+/build/
+
+# Compiled classes
+*.class
+
+# Application properties
+/application.properties
+
+# Spring Boot devtools
+/.restart
+/.reboot
+
+# Maven-specific files
+*.log
+/target/
+pom.xml.tag
+release.properties
+dependency-reduced-pom.xml
+
+# Eclipse-specific files
+/.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.springBeans
+
